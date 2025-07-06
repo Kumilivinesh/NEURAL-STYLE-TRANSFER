@@ -25,3 +25,6 @@ In terms of tools, Python is the primary programming language used, with deep le
 A popular and accessible platform for running Neural Style Transfer experiments is Google Colab. It provides a free cloud-based Jupyter notebook environment with GPU support, which significantly speeds up the processing required for NST. Colab is especially useful for students, hobbyists, and researchers who may not have access to high-performance hardware. By uploading images and writing code in a Colab notebook, users can generate stylized outputs within minutes, thanks to the accelerated computations on GPUs or TPUs.
 
 In summary, Neural Style Transfer is a powerful and creative application of convolutional neural networks, blending artistic expression with modern AI. Using tools like PyTorch, VGG19, and platforms like Google Colab, anyone can explore the fascinating intersection of art and deep learning by turning photos into works of art styled after famous paintings or custom designs.
+
+*output :*
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/6d615302-7bba-45c8-995e-697e6fbeb3b6" />
